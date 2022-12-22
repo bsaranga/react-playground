@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  height: inherit;
+  justify-content: center;
+  align-content: center;
+}
